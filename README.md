@@ -1,16 +1,17 @@
-## Hi there 👋
+**éoRoyther**
 
-<!--
-**royther17/royther17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Espero que goste do meu perfil:)**
 
-Here are some ideas to get you started:
+-Estou estudando o [Alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem JavaScript
+
+-Estou utilizando esse espaço para organizar meus projetos 
+
+**Se precisar me procure**
+
+@royther.twk
+
+![](https://media1.tenor.com/m/Qwnng5iU9K0AAAAC/pica-pau-pica-pau-biruta.gif)
+
+
