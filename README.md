@@ -1,6 +1,6 @@
-**éoRoyther**
+**éoRoyther🃏**
 
-**olha mt o perfi nn**
+**olha mt o perfil nn**
 
 -Estou estudando o [Alura] (https://www.alura.com.br)
 
