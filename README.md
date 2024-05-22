@@ -1,6 +1,6 @@
 **éoRoyther**
 
-**Espero que goste do meu perfil:)**
+**olha mt o perfi nn**
 
 -Estou estudando o [Alura] (https://www.alura.com.br)
 
